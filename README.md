@@ -70,3 +70,16 @@ cd examples/4CL        # or examples/CHS
 python inference_muts.py --mut_counts 2   # use 2, 3, or 4
 ```
 
+## License
+
+This project is licensed under the Apache License 2.0.
+
+Unless otherwise stated, the source code, model architecture, training scripts,
+inference scripts, and released model weights/checkpoints are licensed under
+Apache-2.0.
+
+Datasets used in this project may be subject to their original licenses and
+terms of use. Please refer to the corresponding dataset sources for details.
+
+This software is provided for research purposes and is not intended for clinical
+diagnosis, medical decision-making, or direct therapeutic use.
