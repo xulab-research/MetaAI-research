@@ -1,5 +1,7 @@
 # MetaAI
 
+[![License badge](https://img.shields.io/badge/License-Apache_2.0-blue?logo=apache&logoColor=white)](https://github.com/xulab-research/MetaAI-research/blob/main/LICENSE)
+
 MetaAI is a PyTorch implementation of a low-N, structure-informed model for ranking combinatorial protein mutations. In the accompanying study, MetaAI learns from CoEvo-derived anchor variants to reconstruct cellular sequence-metabolite landscapes and prioritize unsampled mutants.
 
 ## Layout
