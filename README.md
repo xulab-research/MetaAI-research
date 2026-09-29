@@ -16,8 +16,8 @@ examples/    inference scripts and checkpoints for 4CL and CHS
 ## Install
 
 ```bash
-conda create -n metaai python=3.10 -y
-conda activate metaai
+conda create -n MetaAI python=3.10 -y
+conda activate MetaAI
 pip install torch numpy pandas scipy numba click
 ```
 
